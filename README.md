@@ -1,4 +1,6 @@
 JEECG BOOT 低代码开发平台（Vue3前端）
+
+// https://help.jeecg.com/optimizationPlan.html
 ===============
 当前最新版本： 3.6.3（发布时间：2024-03-11）
 
